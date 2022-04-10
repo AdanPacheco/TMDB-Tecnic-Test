@@ -28,3 +28,9 @@ para que siempre quede igual aunque los modelos de base de datos y retrofit camb
 
 [x] Agregar un bottom navigation para cambiar entre Tv Series y Peliculas utilizando fragments para las vistas.
 
+[x] Agregar un float button en el detalle de la pelicula para poder guardarla en favoritos
+
+[x] Agregar un boton para indicar que  ya la has visto y guardar el estado.
+
+[x] Un nuevo carrusel / vista que permita ver favoritos y/o peliculas ya vistas
+
