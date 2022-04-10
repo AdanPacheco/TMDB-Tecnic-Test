@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TMDB test</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most pupular movies</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="playing_now">Playing now</string>
+    <string name="new_movies_out_now">New movies out now</string>
+    <string name="stay_updated_with_the_lasted_movies">Stay updated with the lasted movies</string>
+    <string name="upcoming_movies">Upcoming movies</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="overview">Overview</string>
+    <string name="videos">Videos</string>
+    <string name="video_image">Video Image</string>
+    <string name="thumbnail_image">thumbnail Image</string>
+</resources>
