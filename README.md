@@ -23,6 +23,8 @@ To-Do:
 
 ☑ Pruebas unitarias de casos de uso y view models
 
+[x] Agregar generos de la pelicula en el detalle (añadiendo el campo generos en el modelo de peliculas) y mostrarlos con Chips
+
 [x] separar los modelos de cada tipo de resource y utilizar uno en comun en la capa de dominio
 para que siempre quede igual aunque los modelos de base de datos y retrofit cambien (utilizando mappers)
 
